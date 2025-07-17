@@ -20,7 +20,9 @@ Weather icons provided via Font Awesome for enhanced visual appeal.
 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d3239b1-7d6b-452d-b254-850da2153bd5" />
 
+
 Usage
+
 1.Type a city name in the input box.
 
 2.Click the Search button.
@@ -29,14 +31,18 @@ Usage
 
 Note: This is a static prototype. API integration is not implemented.
 
+
 Built With
+
 1.HTML5 – Semantic markup structure
 
 2.CSS3 – Custom styling with Flexbox and Grid
 
 3.Font Awesome – Icon library for weather visuals
 
+
 Future Improvements
+
 1.Integrate real-time weather API (e.g., OpenWeatherMap)
 
 2.Add location auto-detection
