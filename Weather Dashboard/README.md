@@ -1,7 +1,9 @@
 ⛅ Weather Dashboard
 A beautifully designed and fully responsive Weather Dashboard built with pure HTML and CSS. This project showcases a user-friendly interface that displays current weather conditions and a 5-day forecast in a visually appealing layout. Ideal for front-end learners or developers looking to enhance their UI/UX design skills.
 
+
 ✨ Features
+
 1.Current Weather Overview
 View key weather details such as temperature, weather type, humidity, wind speed, pressure, and visibility.
 
